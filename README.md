@@ -1,5 +1,5 @@
-# Lenovo IdeaPad 3 (14ARE05) Hackintosh based on Opencore 0.9.3
-## Currently tested on Big Sur, Monterey+ un-tested. 
+# Lenovo IdeaPad 3 (14ARE05) Hackintosh based on Opencore 1.0.0
+## Currently tested on Ventura, anything above or below has not been tested.
 &nbsp;
 <h1 align="center">What's working?</h1>
 
@@ -8,13 +8,18 @@
 * USB Ports
 * Audio
 * Ethernet - requires seperate hub (QCA/QCOM WIFI+BT Combo not supported.)
-* More to be added.         
+* Trackpad
+* Brightness control
+* Audio
+* HDMI Output
+* External hub
+* Possibly other things which I have forgotten to add here.        
 &nbsp;
 
 <h1 align="center">What isn't working?</h1>
 
 * Native WiFi & Bluetooth (qcom moment)
-* [TO BE ADDED]        
+
 &nbsp;
 
 <h1 align="center">Ready to try?</h1>
@@ -51,5 +56,5 @@ Thanks to:
 * corpnewt
 * r/hackintosh
 * the hackintosh community!
-* NootedRed team (their help was extremely valuable, a lot of credit goes to them.)
+* Visual & NootedRed for their extremely valuable help.
 * NootedRed community (some awesome people, go check them out!)
